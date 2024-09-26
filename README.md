@@ -1,7 +1,7 @@
 # OSS
 
 <h3 align="center">
-  <b>Top contributor</b> of <a href="https://github.com/wraft/wraft-frontend">Wraft Frontend</a> with over 40k lines of code
+  <b>Top contributor</b> of <a href="https://github.com/wraft/wraft-frontend">Wraft Frontend</a> with over 40k lines of code written
 </h3>
 
 <p align="center">
