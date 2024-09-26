@@ -1,9 +1,9 @@
 # OSS
 
-Top contributor of [Wraft Frontend](https://github.com/wraft/wraft-frontend) with over 40k lines of code.
+## Top contributor of [Wraft Frontend](https://github.com/wraft/wraft-frontend) with over 40k lines of code.
 
-[Wraft](https://github.com/wraft/wraft) is a document lifecycle management platform.<br/>
-I worked on the Frontend for this project.
+### [Wraft](https://github.com/wraft/wraft) is a document lifecycle management platform.<br/>
+### I worked on the Frontend for this project.
 
 <p align="center">
   <a href="https://github.com/wraft/wraft-frontend/graphs/contributors">
